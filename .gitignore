@@ -1,0 +1,22 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+log/
+*.log
+
+# Data files (optional)
+data/
+!data/README.md  # (if you want to leave an empty folder explanation)
+
+# Virtual environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
