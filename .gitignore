@@ -9,9 +9,6 @@ __pycache__/
 log/
 *.log
 
-# Data files (optional)
-data/
-!data/README.md  # (if you want to leave an empty folder explanation)
 
 # Virtual environment
 venv/

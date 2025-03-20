@@ -1,0 +1,11 @@
+order_id,customer_id,customer_name,order_amount,order_date
+1001,1,John Doe,250.00,2024-01-15
+1002,2,Jane Smith,150.00,2024-01-16
+1003,1,John Doe,500.00,2024-01-17
+1004,3,Bob Johnson,NaN,2024-01-18
+1005,4,Alice Brown,300.00,invalid_date
+1006,2,Jane Smith,700.00,2024-01-19
+1007,5,Mary White,50.00,2024-01-20
+1008,3,Bob Johnson,900.00,2024-01-21
+1009,6,Tom Hardy,1100.00,2024-01-21
+1010,6,Tom Hardy,500.00,2024-01-22
